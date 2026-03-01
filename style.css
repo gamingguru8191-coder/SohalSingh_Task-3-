@@ -1,0 +1,57 @@
+
+.container {
+  width: 80%;
+  margin: auto;
+  background-color: coral;
+  border: 4px solid black;
+  padding: 10px;
+}
+.head {
+  color: navy;
+}
+#bglime {
+  background-color: limegreen;
+}
+span {
+  color: red;
+}
+p {
+  font-size: 18px;
+  color: white;
+}
+#para {
+  color: green;
+  padding: 5px;
+}
+.head1 {
+  color: black;
+}
+ul {
+  color: aliceblue;
+}
+
+ul li:nth-child(1) a {
+  color: blue;
+  background-color: yellow;
+}
+
+ul li:nth-child(2) a {
+  color: red;
+  background-color: blue;
+}
+
+ol li:nth-child(1) {
+  color: black;
+}
+ol li:nth-child(2) {
+  color: blue;
+}
+ol li:nth-child(3) {
+  color: red;
+}
+ol li:nth-child(4) {
+  color: purple;
+}
+ol li:nth-child(5) {
+  color: brown;
+}
