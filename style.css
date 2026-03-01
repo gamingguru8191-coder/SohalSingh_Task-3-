@@ -10,7 +10,7 @@
   color: navy;
 }
 #bglime {
-  background-color: red;
+  background-color:  #00ff80;
 }
 span {
   color: red;
@@ -55,5 +55,3 @@ ol li:nth-child(4) {
 ol li:nth-child(5) {
   color: brown;
 }
-
-
